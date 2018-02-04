@@ -1,0 +1,18 @@
+Lever position
+Ship speed
+Gas Turbine shaft torque
+Gas Turbine rate of revolutions
+Gas Generator rate of revolutions
+Starboard Propeller Torque
+Port Propeller Torque
+HP Turbine exit temperature
+GT Compressor inlet air temperature
+GT Compressor outlet air temperature
+HP Turbine exit pressure
+GT Compressor inlet air pressure
+GT Compressor outlet air pressure
+Gas Turbine exhaust gas pressure
+Turbine Injecton Control
+Fuel flow
+GT Compressor decay state coefficient
+GT Turbine decay state coefficient
